@@ -1,0 +1,7 @@
+site_name: 七尘道
+theme:
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+  language: zh
